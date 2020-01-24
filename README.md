@@ -1,2 +1,2 @@
-# alphabet
-My first soc set up
+# rpsgame
+Another soc set up
